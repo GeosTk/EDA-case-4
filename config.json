@@ -1,0 +1,17 @@
+{
+  "budget_usd": 1000000,
+  "installation_budget_usd": 800000,
+  "audit_usd": 50000,
+  "five_year_maintenance_usd": 100000,
+  "minimum_contingency_usd": 50000,
+  "hc_ii_critical_system_usd": 20000,
+  "hc_iii_critical_system_usd": 40000,
+  "remote_distance_km": 5,
+  "remote_cost_multiplier": 1.25,
+  "catchment_radius_km": 5,
+  "distance_score_cap_km": 10,
+  "weights": {"population": 0.45, "clinical_energy": 0.25, "distance": 0.20, "poverty": 0.10},
+  "districts_to_fund": 5,
+  "maximum_facilities_per_district": 10,
+  "minimum_remote_installation_share": 0.30
+}

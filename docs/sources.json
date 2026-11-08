@@ -1,0 +1,22 @@
+{
+  "geospatial_source": "Energy Access Explorer, World Resources Institute and contributing data owners",
+  "retrieval_manifest": "data/download_manifest.jsonl",
+  "dataset_metadata": "data/raw/uganda-datasets.json",
+  "geography_id": "5d137d39-e46d-4abc-bfc9-76254501fa09",
+  "layers": {
+    "health": {"id":"6adb67b1-b116-4be6-aad5-c6cc6708a7cf", "vintage":"2023", "owners":"Uganda Ministry of Health, WRI, IIASA, POLIMI, UNHCR"},
+    "districts": {"id":"d461659b-af30-4b71-84ed-24c8e5bbffa9", "vintage":"2024", "owner":"Uganda Bureau of Statistics"},
+    "population": {"id":"2d03d527-6679-4f80-9f31-ca241e3b0dc5", "vintage":"2022, published 2023", "owner":"WorldPop"},
+    "wealth": {"id":"45ada3b1-dba0-4a2b-86fc-3cb99458a235", "vintage":"2021", "owner":"Data for Good at Meta; Chi et al. 2022"},
+    "distribution": {"id":"e3ed524b-d372-43a5-9086-55ec0aa86208", "vintage":"2024", "owner":"Energy Sector GIS Working Group and contributing utilities"},
+    "ghi": {"id":"bab58981-6a6f-4f6f-855d-4c4ae42bddf8", "vintage":"2024 climatology, Global Solar Atlas 2025", "owner":"WBG/ESMAP/Solargis"}
+  },
+  "attribution": "Data were accessed through www.energyaccessexplorer.org and its linked public storage on 8 November 2026 (UTC). Native exploratory analysis was carried out using Energy Access Explorer on the same UTC date. Facility scoring, catchment assignment and funding scenarios are original calculations from those downloaded layers.",
+  "eae_methods": "https://www.wri.org/research/energy-access-explorer-data-and-methods",
+  "healthcare_methods": "https://www.wri.org/research/gis-assessment-electricity-health-care-uganda",
+  "cost_source": "https://health.go.ug/ministry-of-health-to-solarize-250-health-facilities-under-the-health-facility-solar-electrification-hfse-project/",
+  "cost_source_date": "2025-07-31",
+  "cost_source_facts": {"announced_programme_usd":5000000, "announced_facilities":250},
+  "cost_interpretation": "USD 20,000 is a programme-average comparator, not a procurement quotation. HC II 20,000, HC III 40,000, and a 25% remote uplift are explicit critical-service planning assumptions.",
+  "reuse": "Original owner licences and suggested citations are preserved in the downloaded catalogue. Relative wealth data are CC BY-NC 4.0. Other layers have their own attribution and use conditions; no blanket licence is applied to third-party data."
+}

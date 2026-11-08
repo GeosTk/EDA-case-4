@@ -1,0 +1,5 @@
+cost_change_pct,facilities,installation_usd,modelled_people,contingency_usd,district_allocation
+-20,42,800000,425922,50000,Agago: 4; Bugiri: 6; Isingiro: 9; Kasese: 10; Kassanda: 2; Kyenjojo: 1; Rukungiri: 3; Terego: 1; Tororo: 6
+0,32,790000,323772,60000,Agago: 3; Bugiri: 4; Isingiro: 7; Kasese: 10; Kassanda: 2; Kyenjojo: 1; Rukungiri: 2; Tororo: 3
+20,26,798000,266006,52000,Agago: 2; Bugiri: 3; Isingiro: 5; Kasese: 8; Kassanda: 2; Kyenjojo: 1; Rukungiri: 2; Tororo: 3
+40,22,777000,230026,73000,Agago: 1; Bugiri: 3; Isingiro: 4; Kasese: 7; Kassanda: 2; Kyenjojo: 1; Rukungiri: 1; Tororo: 3

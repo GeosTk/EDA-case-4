@@ -1,0 +1,6 @@
+* text=auto eol=lf
+data/raw/** -text
+*.pdf binary
+*.tif binary
+*.png binary
+*.ipynb text eol=lf

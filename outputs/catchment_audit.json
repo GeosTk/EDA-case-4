@@ -1,0 +1,10 @@
+{
+  "population_in_country_cells": 46107384.25045662,
+  "positive_country_cells": 174545,
+  "facilities": 4938,
+  "unique_coordinate_groups": 4931,
+  "co_located_facility_records": 13,
+  "population_assigned_within_5km": 41600717.34701069,
+  "population_beyond_5km": 4506666.903445923,
+  "method": "Nearest facility; one allocation per cell; co-locations share equally; centroid distance"
+}

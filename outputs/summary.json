@@ -1,0 +1,52 @@
+{
+  "data_source": "Fresh live EAE API and EAE-linked public storage; no previous local exports",
+  "source_facilities": 4938,
+  "source_electricity_status": {
+    "On-grid": 2673,
+    "Off-grid": 1553,
+    "No": 582,
+    "Data unavailable": 130
+  },
+  "public_unserved_hc_ii_iii_before_exclusions": 529,
+  "eligible_facilities": 527,
+  "eligible_districts": 104,
+  "ert_flagged_in_base_filter": 2,
+  "base_filter_boundary_unmatched": 0,
+  "all_boundary_unmatched": 0,
+  "eligible_with_imputation": 10,
+  "normalization": {
+    "population_95th_percentile": 17583.59529113769,
+    "daily_kwh_95th_percentile": 26.67
+  },
+  "top_five": [
+    "Kasese",
+    "Rukungiri",
+    "Tororo",
+    "Bugiri",
+    "Isingiro"
+  ],
+  "funded_facilities": 32,
+  "installation_usd": 790000,
+  "contingency_usd": 60000,
+  "modelled_people_3km": 246626.74885225296,
+  "modelled_people_5km": 323771.9692286104,
+  "modelled_people_10km": 348521.08234688826,
+  "full_budget_usd_per_modelled_person": 3.088593501106686,
+  "remote_facilities_funded": 7,
+  "remote_installation_usd": 250000,
+  "hc_iii_funded": 5,
+  "value_first_facilities": 40,
+  "value_first_modelled_people": 475245.99354735017,
+  "value_first_remote_facilities": 0,
+  "maintenance_per_facility_per_year_usd": 625.0,
+  "clinical_energy_kwh_day_funded": 706.81,
+  "funded_ghi_min": 1517.3050537109375,
+  "funded_ghi_max": 2192.18994140625,
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "rasterio": "1.5.2",
+    "matplotlib": "3.11.2"
+  }
+}

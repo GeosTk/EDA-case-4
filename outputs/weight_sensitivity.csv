@@ -1,0 +1,4 @@
+policy,weights,top_five
+Baseline,"{""population"": 0.45, ""clinical_energy"": 0.25, ""distance"": 0.2, ""poverty"": 0.1}",Kasese; Rukungiri; Tororo; Bugiri; Isingiro
+More population,"{""population"": 0.65, ""clinical_energy"": 0.15, ""distance"": 0.1, ""poverty"": 0.1}",Kasese; Rukungiri; Tororo; Bugiri; Isingiro
+More equity,"{""population"": 0.25, ""clinical_energy"": 0.15, ""distance"": 0.4, ""poverty"": 0.2}",Kasese; Rukungiri; Tororo; Bugiri; Isingiro
