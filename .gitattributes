@@ -3,4 +3,5 @@ data/raw/** -text
 *.pdf binary
 *.tif binary
 *.png binary
+*.zip binary
 *.ipynb text eol=lf

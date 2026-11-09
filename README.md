@@ -60,6 +60,7 @@ The live website was also used for a district **Assistance Need Index** explorat
 
 ## Data provenance and cost evidence
 
+- [Verified EAE source-download bundle](data/eae_source_downloads.zip) and [file-by-file guide](data/EAE_SOURCE_FILES.md).
 - [Download manifest](data/download_manifest.jsonl): exact live URLs, UTC timestamps, content types and checksums.
 - [Raw snapshot](data/raw/): national healthcare points, district polygons, population, distribution-distance, wealth and solar rasters, plus the live catalogue and layer definitions.
 - [Endpoint-discovery provenance](docs/eae_discovery_resources.jsonl): URLs and checksums of website resources consulted to locate the public endpoints. Their application code is excluded from the repository because it is not an analysis input and can contain embedded service tokens.
