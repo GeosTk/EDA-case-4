@@ -1,7 +1,9 @@
 * text=auto eol=lf
 data/raw/** -text
+data/native_exports/assistance_need/** -text
 *.pdf binary
 *.tif binary
 *.png binary
 *.zip binary
+*.pptx binary
 *.ipynb text eol=lf

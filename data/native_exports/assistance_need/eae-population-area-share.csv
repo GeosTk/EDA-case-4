@@ -1,0 +1,8 @@
+,Area share,,,,Population share,,,
+Level,Assistance Need Index (1km²),Energy Access Potential (1km²),Demand Index (1km²),Supply Index (1km²),Assistance Need Index (people),Energy Access Potential (people),Demand Index (people),Supply Index (people)
+low,3674,9563,10784,104,102394,420233,484834,30774
+low-medium,40271,45974,51107,760,5060115,7115319,8182734,340398
+medium,52058,53512,49988,22806,14156540,16466930,16823703,6846734
+medium-high,28736,16791,14099,60456,17420556,12354881,11092969,22495962
+high,2674,1573,1435,43287,5162302,5544542,5317664,12188037
+outside the analysis,115903,115903,115903,115903,4148293,4148293,4148293,4148293

@@ -1,0 +1,99 @@
+{
+  "source": "Signed-in Energy Access Explorer native Download all (.zip) action",
+  "analysis_url": "https://www.energyaccessexplorer.org/tool/a/?id=5d137d39-e46d-4abc-bfc9-76254501fa09",
+  "export_date_local": "2026-11-09",
+  "export_filename_time_zone": "Africa/Johannesburg",
+  "downloaded_file_mtime_utc": "2026-11-09T15:24:37.533612+00:00",
+  "verified_at_utc": "2026-11-09T15:28:57.599279+00:00",
+  "geography": "Uganda",
+  "analysis_area": "District",
+  "selected_index": "Assistance Need Index",
+  "package_file": "assistance_need/202611091724-eae-export.zip",
+  "package_sha256": "29f60e2071b7fdfc8b52f8729c059bb44126bbfbbb5cfcd467b495719cd3c515",
+  "package_bytes": 2471340,
+  "original_files": [
+    {
+      "file": "eae-assistance-need-index-high-priority-areas.csv",
+      "bytes": 7677,
+      "sha256": "6282a3f2b7c7201ba58abd2d467c76330e96a3fdc93261601a08173073946ec7"
+    },
+    {
+      "file": "eae-assistance-need-index-map.tif",
+      "bytes": 388933,
+      "sha256": "1ba5507f36143ab27c5b026e156b8998a7cbb801a1813ee231f517672387e583"
+    },
+    {
+      "file": "eae-population-area-share.csv",
+      "bytes": 645,
+      "sha256": "bb0085de66dad84d9b1a97cb7822c8f6fd2b6c6de408c5164861b1c00e2e76f2"
+    },
+    {
+      "file": "eae-summary.pptx",
+      "bytes": 2073505,
+      "sha256": "2454c518bab5e9c444061149db5b4e9c2c2d2c0115e7741236b7e43922df0b00"
+    }
+  ],
+  "district_rows": 146,
+  "slide_count": 15,
+  "native_top_ten": [
+    "Wakiso",
+    "Kampala",
+    "Amudat",
+    "Buvuma",
+    "Kasese",
+    "Lamwo",
+    "Obongi",
+    "Kalangala",
+    "Pakwach",
+    "Terego"
+  ],
+  "native_presentation_settings": {
+    "Population Count": {
+      "native_unit_label": "proximity in km",
+      "domain": "min: 0, max: 20000",
+      "selected_range": "min: 0, max: 20000",
+      "importance": 5
+    },
+    "Relative Wealth Index": {
+      "native_unit_label": "proximity in km",
+      "domain": "min: -2, max: 2",
+      "selected_range": "min: -2, max: 2",
+      "importance": 4
+    },
+    "Health facilities": {
+      "native_unit_label": "proximity in km",
+      "domain": "min: 0, max: 250",
+      "selected_range": "min: 0, max: 5",
+      "importance": 5
+    },
+    "Global Horizontal Irradiation": {
+      "native_unit_label": "proximity in km",
+      "domain": "min: 500, max: 2800",
+      "selected_range": "min: 500, max: 2800",
+      "importance": 1
+    },
+    "Distribution Lines": {
+      "native_unit_label": "proximity in km",
+      "domain": "min: 0, max: 700",
+      "selected_range": "min: 0, max: 700",
+      "importance": 4
+    }
+  },
+  "native_raster": {
+    "shape": [
+      637,
+      609
+    ],
+    "crs": "EPSG:4326",
+    "nodata": 255.0,
+    "valid_cells": 127414,
+    "minimum": 0.0,
+    "maximum": 254.0
+  },
+  "area_share_selected_total": 127413,
+  "selected_population": 41901907,
+  "population_total_with_outside": 46050200,
+  "displayed_population_total": 46050198,
+  "purpose": "Supplemental native EAE evidence collected after the original independent facility-based analysis",
+  "interpretation_guide": "README.md"
+}

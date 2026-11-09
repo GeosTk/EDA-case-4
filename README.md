@@ -7,6 +7,7 @@ A new assignment solution for a **USD 1,000,000** Ministry of Health programme. 
 - [Four-page submission report](report/case_study_4_report.pdf)
 - [Readable report text](report/case_study_4_report.md)
 - [Explained calculation notebook](notebooks/healthcare_electrification.ipynb)
+- [Native EAE export files](data/native_exports/README.md) - original PowerPoint, ANI GeoTIFF and CSVs, collected as supplemental evidence after the original analysis.
 - [Full district ranking](outputs/district_ranking.csv)
 - [Named conditional facility awards](outputs/funded_facilities.csv)
 - [Budget by district](outputs/district_budget.csv)
@@ -54,9 +55,9 @@ The saved PDF is exactly four pages. Report prose and its source date describe t
 
 ## EAE website analysis versus the decision extension
 
-The live website was also used for a district **Assistance Need Index** exploration. Its inputs, filters, weights and observed top ten are recorded in [the EAE session](docs/eae_session.json). The native packaged export required login. The native area index can prioritise places that do not contain eligible unserved public facilities; the independent facility screening therefore determines the proposed awards.
+The live website was also used for a district **Assistance Need Index** exploration. Its inputs, filters, weights and observed top ten are recorded in [the EAE session](docs/eae_session.json). After EAE sign-in, a matching [native export package](data/native_exports/README.md) was collected on 9 November 2026 as supplemental evidence. The native area index can prioritise places that do not contain eligible unserved public facilities; the independent facility screening therefore determines the proposed awards.
 
-**The final district ranking is a transparent extension calculated from EAE data, not EAE's native district ANI.** The distinction is explicit in the report. No native export or fresh platform-generated district scores are claimed.
+**The final district ranking is a transparent extension calculated from EAE data, not EAE's native district ANI.** The distinction is explicit in the report. The newly collected native export is preserved separately, with its original rankings, units and source-file cautions.
 
 ## Data provenance and cost evidence
 

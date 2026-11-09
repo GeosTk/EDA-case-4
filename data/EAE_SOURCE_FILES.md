@@ -20,6 +20,6 @@ The bundle contains the exact EAE resources used in the report and notebook, dow
 
 ## Native analysis-export status
 
-EAE requires account sign-in to generate its native PowerPoint/CSV/TIFF analysis-export package. That package was not obtained for the original analysis. The downloadable ZIP here contains EAE **source layers and metadata**.
+After EAE account sign-in, the [native PowerPoint/CSV/TIFF analysis-export package](native_exports/README.md) was downloaded on 9 November 2026 as supplemental evidence. That package was not an input to the original analysis. The source-download ZIP linked above contains EAE **source layers and metadata**.
 
 The report's [district ranking](../outputs/district_ranking.csv), [named facility awards](../outputs/funded_facilities.csv), [district budget](../outputs/district_budget.csv) and [cost sensitivity](../outputs/cost_sensitivity.csv) are independently calculated results. The [website session record](../docs/eae_session.json) documents the separate exploratory Assistance Need Index settings.

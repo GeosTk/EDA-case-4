@@ -5,13 +5,61 @@
   "area": "District",
   "index": "Assistance Need Index",
   "layers": [
-    {"name": "Health facilities", "importance": 5, "proximity_km": [0, 5]},
-    {"name": "Population Count", "importance": 5, "range_people": [0, 20000]},
-    {"name": "Relative Wealth Index", "importance": 4, "range_rwi": [-2, 2]},
-    {"name": "Distribution Lines", "importance": 4, "proximity_km": [0, 700]},
-    {"name": "Global Horizontal Irradiation", "importance": 1, "range_kwh_m2": [500, 2800]}
+    {
+      "name": "Health facilities",
+      "importance": 5,
+      "proximity_km": [
+        0,
+        5
+      ]
+    },
+    {
+      "name": "Population Count",
+      "importance": 5,
+      "range_people": [
+        0,
+        20000
+      ]
+    },
+    {
+      "name": "Relative Wealth Index",
+      "importance": 4,
+      "range_rwi": [
+        -2,
+        2
+      ]
+    },
+    {
+      "name": "Distribution Lines",
+      "importance": 4,
+      "proximity_km": [
+        0,
+        700
+      ]
+    },
+    {
+      "name": "Global Horizontal Irradiation",
+      "importance": 1,
+      "range_kwh_m2": [
+        500,
+        2800
+      ]
+    }
   ],
-  "observed_native_top_ten": ["Wakiso", "Kampala", "Amudat", "Buvuma", "Kasese", "Lamwo", "Obongi", "Kalangala", "Pakwach", "Terego"],
-  "native_export": "Login required; no native packaged export was downloaded.",
-  "interpretation": "Exploratory area index. Health marker visibility was restricted to No; visibility must not be treated as a proven raster electrification-status filter. Final ranking is computed independently from downloaded facility attributes and EAE layers, and is not the native EAE district ANI."
+  "observed_native_top_ten": [
+    "Wakiso",
+    "Kampala",
+    "Amudat",
+    "Buvuma",
+    "Kasese",
+    "Lamwo",
+    "Obongi",
+    "Kalangala",
+    "Pakwach",
+    "Terego"
+  ],
+  "native_export": "Supplemental native package collected after EAE sign-in on 9 November 2026; see data/native_exports/manifest.json. It was not an input to the original report ranking.",
+  "interpretation": "Exploratory area index. Health marker visibility was restricted to No; visibility must not be treated as a proven raster electrification-status filter. Final ranking is computed independently from downloaded facility attributes and EAE layers, and is not the native EAE district ANI.",
+  "native_export_date_local": "2026-11-09",
+  "native_export_manifest": "data/native_exports/manifest.json"
 }

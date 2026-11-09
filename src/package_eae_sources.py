@@ -31,6 +31,8 @@ These are raw EAE source downloads. The website's native analysis-export package
 not an input to the reported funding ranking. The final ranking, named awards
 and sensitivity tables are independent calculations provided in outputs/ in
 the repository. They must not be described as EAE-generated district ANI data.
+The supplemental native EAE export was subsequently collected on 9 November
+2026 and is provided separately under data/native_exports/ in the repository.
 
 Reproducibility
 https://github.com/GeosTk/EDA-case-4
